@@ -1,9 +1,11 @@
+The pictures are out-dated on this post, ill clean this read-me up when I get chance.
+
 ### Requirements (ensure you are using the latest)
 - [ESX Legacy](https://github.com/esx-framework/esx-legacy)
 - [MySQL Async 3.3.2](https://github.com/brouznouf/fivem-mysql-async/releases/tag/3.3.2)
 - [ESX Identity](https://github.com/esx-framework/esx_identity)
-- [ESX Skin](https://github.com/esx-framework/esx_skin)
-- [Spawnmanager](https://github.com/citizenfx/cfx-server-data/tree/master/resources/%5Bmanagers%5D/spawnmanager)
+- [ESX Skin](https://github.com/esx-framework/esx_skin) - Not required if using illenium-appearance
+- [Spawnmanager](https://github.com/citizenfx/cfx-server-data/tree/master/resources/%5Bmanagers%5D/spawnmanager) - Not required if using illenium-appearance
 
 ### Installation
 - Modify your ESX config with `Config.Multichar = true`
