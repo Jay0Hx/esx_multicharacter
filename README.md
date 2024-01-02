@@ -19,6 +19,8 @@
 - Config.AnimationDict = "anim@mp_player_intcelebrationmale@wave" | Set this to your desired animation.
 - Config.AnimationSecondary = "wave" | Set this to the secondary animation listed.
 
+------------------------------------------------------------------------------------------------
+
 ### Requirements (ensure you are using the latest)
 - [ESX Legacy](https://github.com/esx-framework/esx-legacy)
 - [MySQL Async 3.3.2](https://github.com/brouznouf/fivem-mysql-async/releases/tag/3.3.2)
