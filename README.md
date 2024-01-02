@@ -1,5 +1,18 @@
 The pictures are out-dated on this post, ill clean this read-me up when I get chance.
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+#### Black screen / loading scripts
+	- Download and run all requirements
+	- Use a fresh spawnmanager as many people alter the code
+	- Ensure none of the conflicting resources are enabled
+
+
 ### Requirements (ensure you are using the latest)
 - [ESX Legacy](https://github.com/esx-framework/esx-legacy)
 - [MySQL Async 3.3.2](https://github.com/brouznouf/fivem-mysql-async/releases/tag/3.3.2)
