@@ -26,6 +26,8 @@ I haven't done much to this resource at all. I do not take credit for creating t
 - Original Repo: https://github.com/thelindat/esx_multicharacter
 - New Source: [[esx_addons]/esx_multicharacter](https://github.com/rwain69/ESX-Legacy-Server-Pack/tree/main/%5Besx_addons%5D/esx_multicharacter)
 
+NOTE: If you are already using the most up to date version of esx_multicharacter, i.e, if it looks like the pictures I have posted below, this resource is a straight swap and you can ignore everything below, just delete your version and replace it with this.
+
 ------------------------------------------------------------------------------------------------
 
 ### Requirements (ensure you are using the latest)
