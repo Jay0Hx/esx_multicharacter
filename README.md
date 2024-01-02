@@ -119,6 +119,3 @@ along with this program.  If not, see https://www.gnu.org/licenses.
 
 
 ### Thanks to KASH, XxFri3ndlyxX, and all those who have contributed
-
-![logo](https://github.com/Jay0Hx/esx_multicharacter/assets/119745695/85ffcb91-f2c0-4117-bb50-3d686f7519ef)
-
