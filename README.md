@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="[https://github.com/othneildrew/Best-README-Template](https://discord.gg/PRdHZznczp)">
-    <img src="logo" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Jay0Hx/esx_multicharacter/assets/119745695/85ffcb91-f2c0-4117-bb50-3d686f7519ef" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">esx_multicharacter (tweaked)</h3>
