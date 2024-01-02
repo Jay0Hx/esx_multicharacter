@@ -19,6 +19,10 @@
 - Config.AnimationDict = "anim@mp_player_intcelebrationmale@wave" | Set this to your desired animation.
 - Config.AnimationSecondary = "wave" | Set this to the secondary animation listed.
 
+I have not dont much to this resource at all. I do not take credit for creating this resource and I would like to use this space to link the original repo along with the source that I used to modify.
+Original Repo:
+New Source:
+
 ------------------------------------------------------------------------------------------------
 
 ### Requirements (ensure you are using the latest)
