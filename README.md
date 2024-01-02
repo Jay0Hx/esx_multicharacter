@@ -19,7 +19,8 @@
 - Config.AnimationDict = "anim@mp_player_intcelebrationmale@wave" | Set this to your desired animation.
 - Config.AnimationSecondary = "wave" | Set this to the secondary animation listed.
 
-I have not dont much to this resource at all. I do not take credit for creating this resource and I would like to use this space to link the original repo along with the source that I used to modify.
+I haven't done much to this resource at all. I do not take credit for creating this resource and I would like to use this space to link the original repo along with the source that I used to modify. I have created this resource because i always though the addition of a logo would be perfect for esx_multicharacter and I could never find a simple plug and play alternative, so here it is, please raise any issues you have and i'll get them fixed ASAP as i use this for my own server. If you are the creator of this resource and wish for me to remove this please contact me directly and I will be happy to do so.
+
 - Original Repo: https://github.com/thelindat/esx_multicharacter
 - New Source: [[esx_addons]/esx_multicharacter](https://github.com/rwain69/ESX-Legacy-Server-Pack/tree/main/%5Besx_addons%5D/esx_multicharacter)
 
