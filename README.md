@@ -61,7 +61,7 @@ NOTE: If you are already using the most up to date version of esx_multicharacter
 	- You have not increased the VARCHAR size of the table holding identifiers - usually `owner` or `identifier`
 
 #### The menu interface is esx_menu_default - you can use any version if you want a different appearance
-![image](https://user-images.githubusercontent.com/65407488/126976325-17cc3241-bb9e-451f-a6ed-610a8ef52fa5.png)
+![image](https://github.com/Jay0Hx/esx_multicharacter/assets/119745695/ea789729-9167-43c0-b1d6-e5bb1cfbbc0c)
 
 ### Relogging
 - Do not enable this setting if you do not intend to properly set up relog support
