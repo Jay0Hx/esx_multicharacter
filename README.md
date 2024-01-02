@@ -21,7 +21,7 @@
 
 I have not dont much to this resource at all. I do not take credit for creating this resource and I would like to use this space to link the original repo along with the source that I used to modify.
 - Original Repo: https://github.com/thelindat/esx_multicharacter
-- New Source: [esx_addons]/esx_multicharacter
+- New Source: [[esx_addons]/esx_multicharacter](https://github.com/rwain69/ESX-Legacy-Server-Pack/tree/main/%5Besx_addons%5D/esx_multicharacter)
 
 ------------------------------------------------------------------------------------------------
 
