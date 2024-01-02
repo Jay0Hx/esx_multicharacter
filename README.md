@@ -1,16 +1,23 @@
-The pictures are out-dated on this post, ill clean this read-me up when I get chance.
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+  <h3 align="center">Best-README-Template</h3>
 
-#### Black screen / loading scripts
-	- Download and run all requirements
-	- Use a fresh spawnmanager as many people alter the code
-	- Ensure none of the conflicting resources are enabled
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <br />
+  </p>
+</div>
+
+
+
+
+
+
 
 
 ### Requirements (ensure you are using the latest)
